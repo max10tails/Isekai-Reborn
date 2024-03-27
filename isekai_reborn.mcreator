@@ -573,7 +573,12 @@
       },
       {
         "name": "Food",
-        "children": []
+        "children": [
+          {
+            "name": "Desserts",
+            "children": []
+          }
+        ]
       },
       {
         "name": "Misc",
