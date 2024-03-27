@@ -24,7 +24,20 @@
               },
               {
                 "name": "Arc Magic",
-                "children": []
+                "children": [
+                  {
+                    "name": "Ancient Dragon Magic",
+                    "children": []
+                  },
+                  {
+                    "name": "Life Magic",
+                    "children": []
+                  },
+                  {
+                    "name": "Death Magic",
+                    "children": []
+                  }
+                ]
               },
               {
                 "name": "Dark Magic",
@@ -53,10 +66,6 @@
               },
               {
                 "name": "Forbidden Magic",
-                "children": []
-              },
-              {
-                "name": "Ancient Dragon Magic",
                 "children": []
               }
             ]
@@ -642,6 +651,10 @@
           },
           {
             "name": "Faye",
+            "children": []
+          },
+          {
+            "name": "Shinigami",
             "children": []
           }
         ]
