@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/guildcard",
+  "textures": {
+    "0": "splitbear_mods:block/guildcardbase",
+    "particle": "splitbear_mods:item/guildcardpic"
+  }
+}

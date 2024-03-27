@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/demonkingsword",
+  "textures": {
+    "1": "splitbear_mods:block/demonkingsword",
+    "particle": "splitbear_mods:item/demonkingswordpic"
+  }
+}

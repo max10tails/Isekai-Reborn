@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/shinobuswordfix",
+  "textures": {
+    "1": "splitbear_mods:block/shinobusword",
+    "particle": "splitbear_mods:item/shinobuswordpic"
+  }
+}

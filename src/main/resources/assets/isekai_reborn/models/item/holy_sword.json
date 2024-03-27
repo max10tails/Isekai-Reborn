@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/durandal",
+  "textures": {
+    "1": "splitbear_mods:block/durandal",
+    "particle": "splitbear_mods:item/durandaliteamframe"
+  }
+}

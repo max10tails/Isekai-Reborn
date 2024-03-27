@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/dragonwait",
+  "textures": {
+    "2": "splitbear_mods:block/dragonhumanform",
+    "particle": "splitbear_mods:item/dragonwaitpic"
+  }
+}

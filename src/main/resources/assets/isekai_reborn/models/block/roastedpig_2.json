@@ -1,0 +1,9 @@
+{
+  "parent": "splitbear_mods:custom/roastedpig2",
+  "textures": {
+    "all": "splitbear_mods:block/roastedpig2",
+    "particle": "splitbear_mods:block/roastedpig2",
+    "0": "splitbear_mods:block/roastedpigtext"
+  },
+  "render_type": "solid"
+}

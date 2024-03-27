@@ -1,0 +1,9 @@
+{
+  "parent": "splitbear_mods:custom/stewpotempty",
+  "textures": {
+    "all": "splitbear_mods:block/stewpot",
+    "particle": "splitbear_mods:block/stewpot",
+    "0": "splitbear_mods:block/stewpotstew"
+  },
+  "render_type": "solid"
+}

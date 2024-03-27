@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "splitbear_mods:block/greengloshroomling",
+    "particle": "splitbear_mods:block/greengloshroomling"
+  },
+  "render_type": "cutout"
+}

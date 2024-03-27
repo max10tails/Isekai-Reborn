@@ -29,6 +29,10 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.isekaireborn.init.IsekaiRebornModTabs;
+import net.mcreator.isekaireborn.init.IsekaiRebornModItems;
+import net.mcreator.isekaireborn.init.IsekaiRebornModEntities;
+
 import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
@@ -46,6 +50,11 @@ public class IsekaiRebornMod {
 	public IsekaiRebornMod() {
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+
+		IsekaiRebornModItems.REGISTRY.register(bus);
+		IsekaiRebornModEntities.REGISTRY.register(bus);
+
+		IsekaiRebornModTabs.REGISTRY.register(bus);
 
 	}
 

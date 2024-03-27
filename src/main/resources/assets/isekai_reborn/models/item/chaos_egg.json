@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/chaosdragonegg1",
+  "textures": {
+    "0": "splitbear_mods:block/chaosegg",
+    "particle": "splitbear_mods:item/chaosdragoneggscreenshot"
+  }
+}

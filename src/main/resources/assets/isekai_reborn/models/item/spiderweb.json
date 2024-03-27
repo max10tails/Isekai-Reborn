@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/spiderweb1",
+  "textures": {
+    "0": "splitbear_mods:block/spiderweb",
+    "particle": "splitbear_mods:item/spiderwebtext"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "splitbear_mods:block/diamond",
+    "up": "splitbear_mods:block/diamond",
+    "north": "splitbear_mods:block/diamond",
+    "east": "splitbear_mods:block/diamond",
+    "south": "splitbear_mods:block/diamond",
+    "west": "splitbear_mods:block/diamond",
+    "particle": "splitbear_mods:block/diamond"
+  },
+  "render_type": "solid"
+}

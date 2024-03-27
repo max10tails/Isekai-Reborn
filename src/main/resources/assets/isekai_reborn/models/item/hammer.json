@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/hammer",
+  "textures": {
+    "0": "splitbear_mods:block/hammeruv",
+    "particle": "splitbear_mods:item/hammer"
+  }
+}

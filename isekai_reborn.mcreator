@@ -1,9 +1,29 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Ryuka",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ryuka",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/isekaireborn/entity/RyukaEntity.java",
+          "src/main/resources/data/isekai_reborn/forge/biome_modifier/ryuka_biome_modifier.json",
+          "src/main/java/net/mcreator/isekaireborn/client/renderer/RyukaRenderer.java",
+          "src/main/resources/assets/isekai_reborn/models/item/ryuka_spawn_egg.json"
+        ]
+      },
+      "path": "~/Servants and Waifus/Waifus/Ryuka"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "entity.isekai_reborn.ryuka": "Ryuka",
+      "item.isekai_reborn.ryuka_spawn_egg": "Ryuka Spawn Egg"
+    }
   },
   "foldersRoot": {
     "name": "~",

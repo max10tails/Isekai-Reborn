@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/demonkingshield",
+  "textures": {
+    "0": "splitbear_mods:block/demonkingshield",
+    "particle": "splitbear_mods:item/demonkingshieldpic"
+  }
+}
