@@ -64,6 +64,10 @@
           {
             "name": "Mana",
             "children": []
+          },
+          {
+            "name": "Magitek",
+            "children": []
           }
         ]
       },
@@ -201,6 +205,10 @@
           },
           {
             "name": "Broodmother",
+            "children": []
+          },
+          {
+            "name": "Goblins",
             "children": []
           }
         ]
