@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/holyswordfullpower",
+  "textures": {
+    "1": "splitbear_mods:block/holysword",
+    "particle": "splitbear_mods:item/holyswordfullpower"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "splitbear_mods:block/lavablock",
+    "up": "splitbear_mods:block/lavablock",
+    "north": "splitbear_mods:block/lavablock",
+    "east": "splitbear_mods:block/lavablock",
+    "south": "splitbear_mods:block/lavablock",
+    "west": "splitbear_mods:block/lavablock",
+    "particle": "splitbear_mods:block/lavablock"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "splitbear_mods:block/newbarrier",
+    "up": "splitbear_mods:block/newbarrier",
+    "north": "splitbear_mods:block/newbarrier",
+    "east": "splitbear_mods:block/newbarrier",
+    "south": "splitbear_mods:block/newbarrier",
+    "west": "splitbear_mods:block/newbarrier",
+    "particle": "splitbear_mods:block/newbarrier"
+  },
+  "render_type": "translucent"
+}

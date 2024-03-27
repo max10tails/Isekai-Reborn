@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/dragoneerclawfix",
+  "textures": {
+    "1": "splitbear_mods:block/dragonclawfix",
+    "particle": "splitbear_mods:item/dragoneerclawscreenshot"
+  }
+}

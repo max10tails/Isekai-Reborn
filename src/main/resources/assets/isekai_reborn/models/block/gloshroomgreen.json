@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "splitbear_mods:block/gloshroomunderside",
+    "up": "splitbear_mods:block/gloshroomgreen",
+    "north": "splitbear_mods:block/gloshroomgreen",
+    "east": "splitbear_mods:block/gloshroomgreen",
+    "south": "splitbear_mods:block/gloshroomgreen",
+    "west": "splitbear_mods:block/gloshroomgreen",
+    "particle": "splitbear_mods:block/gloshroomunderside"
+  },
+  "render_type": "solid"
+}

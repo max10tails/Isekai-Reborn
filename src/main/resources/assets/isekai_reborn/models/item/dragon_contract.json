@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/dragoncontract",
+  "textures": {
+    "0": "splitbear_mods:block/dragoncontract",
+    "particle": "splitbear_mods:item/dragoncontracttext"
+  }
+}

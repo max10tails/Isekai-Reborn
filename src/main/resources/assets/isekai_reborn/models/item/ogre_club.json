@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/ogreclub",
+  "textures": {
+    "0": "splitbear_mods:block/ogre2",
+    "particle": "splitbear_mods:item/ogreclub"
+  }
+}

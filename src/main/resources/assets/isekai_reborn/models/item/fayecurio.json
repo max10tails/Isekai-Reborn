@@ -1,0 +1,8 @@
+{
+  "parent": "splitbear_mods:custom/fayecurio",
+  "textures": {
+    "0": "splitbear_mods:block/fayeface",
+    "missing": "splitbear_mods:block/fayeface",
+    "particle": "splitbear_mods:item/fayecurioscreenshot"
+  }
+}

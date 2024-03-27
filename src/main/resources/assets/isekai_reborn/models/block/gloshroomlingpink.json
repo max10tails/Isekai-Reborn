@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "splitbear_mods:block/pinkgloshroomsmalltop",
+    "particle": "splitbear_mods:block/pinkgloshroomsmalltop"
+  },
+  "render_type": "cutout"
+}
