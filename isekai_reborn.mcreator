@@ -836,11 +836,24 @@
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
-    "requiredMods": [],
-    "dependencies": [],
+    "requiredMods": [
+      "kleiders_custom_renderer"
+    ],
+    "dependencies": [
+      "kleiders_custom_renderer"
+    ],
     "dependants": [],
-    "mcreatorDependencies": [],
+    "mcreatorDependencies": [
+      "kleidersplayerrenderer",
+      "pehkui",
+      "use_compiled_mods",
+      "curios_api",
+      "geckolib",
+      "particlepresets",
+      "jei"
+    ],
     "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.isekaireborn",
     "lockBaseModFiles": false
   },
