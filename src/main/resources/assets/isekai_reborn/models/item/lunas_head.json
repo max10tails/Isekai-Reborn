@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/lunashead",
+  "textures": {
+    "0": "splitbear_mods:block/dullahanmainheadtexture",
+    "particle": "splitbear_mods:item/dullahanmainhead"
+  }
+}

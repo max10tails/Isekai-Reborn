@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/heroshieldremap",
+  "textures": {
+    "0": "splitbear_mods:block/heroshield",
+    "particle": "splitbear_mods:item/heroshieldpic"
+  }
+}

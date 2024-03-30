@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/spidercontract",
+  "textures": {
+    "0": "splitbear_mods:block/spidercontract",
+    "particle": "splitbear_mods:item/spidercontracttext"
+  }
+}

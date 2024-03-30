@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/whipnew",
+  "textures": {
+    "0": "splitbear_mods:block/whipnew",
+    "particle": "splitbear_mods:item/whipnewpic"
+  }
+}

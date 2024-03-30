@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/holyswordlevel1",
+  "textures": {
+    "2": "splitbear_mods:block/holysword",
+    "particle": "splitbear_mods:item/holyswordlevel1"
+  }
+}

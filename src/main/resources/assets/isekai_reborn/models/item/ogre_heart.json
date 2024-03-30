@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/ogreheart",
+  "textures": {
+    "0": "splitbear_mods:block/ogrehearttexture",
+    "particle": "splitbear_mods:item/ogresheart"
+  }
+}

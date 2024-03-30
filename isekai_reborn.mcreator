@@ -1,21 +1,16 @@
 {
   "mod_elements": [
     {
-      "name": "Ryuka",
-      "type": "livingentity",
-      "sortid": 2,
+      "name": "Isekai",
+      "type": "tab",
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ryuka",
+      "registry_name": "isekai",
       "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/isekaireborn/entity/RyukaEntity.java",
-          "src/main/resources/data/isekai_reborn/forge/biome_modifier/ryuka_biome_modifier.json",
-          "src/main/java/net/mcreator/isekaireborn/client/renderer/RyukaRenderer.java",
-          "src/main/resources/assets/isekai_reborn/models/item/ryuka_spawn_egg.json"
-        ]
+        "files": []
       },
-      "path": "~/Servants and Waifus/Waifus/Ryuka"
+      "path": "~/Misc/creative"
     },
     {
       "name": "HolySword",
@@ -33,16 +28,21 @@
       "path": "~/Heroes/Isekai Stuff/Holy Sword/Forms and Levels/Forms/Sword"
     },
     {
-      "name": "Isekai",
-      "type": "tab",
-      "sortid": 3,
+      "name": "Ryuka",
+      "type": "livingentity",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "isekai",
+      "registry_name": "ryuka",
       "metadata": {
-        "files": []
+        "files": [
+          "src/main/java/net/mcreator/isekaireborn/entity/RyukaEntity.java",
+          "src/main/resources/data/isekai_reborn/forge/biome_modifier/ryuka_biome_modifier.json",
+          "src/main/java/net/mcreator/isekaireborn/client/renderer/RyukaRenderer.java",
+          "src/main/resources/assets/isekai_reborn/models/item/ryuka_spawn_egg.json"
+        ]
       },
-      "path": "~/Misc/creative"
+      "path": "~/Servants and Waifus/Waifus/Ryuka"
     }
   ],
   "variable_elements": [],

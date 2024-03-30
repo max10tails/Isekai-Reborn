@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/ryukatotem",
+  "textures": {
+    "1": "splitbear_mods:block/ryuka_totem",
+    "particle": "splitbear_mods:item/ryuka_totem"
+  }
+}

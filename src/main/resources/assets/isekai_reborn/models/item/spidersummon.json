@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/spiderwait",
+  "textures": {
+    "2": "splitbear_mods:block/spiderhumanform",
+    "particle": "splitbear_mods:item/spiderwaitpic"
+  }
+}

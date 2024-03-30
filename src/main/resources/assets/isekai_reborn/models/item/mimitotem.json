@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/mimitotem",
+  "textures": {
+    "2": "splitbear_mods:block/mimi_totem",
+    "particle": "splitbear_mods:item/mimitotem"
+  }
+}

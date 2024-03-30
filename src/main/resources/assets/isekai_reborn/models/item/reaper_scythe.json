@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/reapersscythe",
+  "textures": {
+    "0": "splitbear_mods:block/scythetexture",
+    "particle": "splitbear_mods:item/reapersscythescreenshot"
+  }
+}

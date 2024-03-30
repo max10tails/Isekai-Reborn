@@ -1,0 +1,7 @@
+{
+  "parent": "splitbear_mods:custom/chaosfireball",
+  "textures": {
+    "0": "splitbear_mods:block/chaosfireball",
+    "particle": "splitbear_mods:item/chaosfireballtext"
+  }
+}

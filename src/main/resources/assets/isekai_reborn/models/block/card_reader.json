@@ -1,0 +1,9 @@
+{
+  "parent": "splitbear_mods:custom/card_dispenser",
+  "textures": {
+    "all": "splitbear_mods:block/card_dispenserpic",
+    "particle": "splitbear_mods:block/card_dispenserpic",
+    "0": "splitbear_mods:block/carddispenser"
+  },
+  "render_type": "solid"
+}
