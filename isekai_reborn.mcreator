@@ -1,9 +1,59 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Ryuka",
+      "type": "livingentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ryuka",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/isekaireborn/entity/RyukaEntity.java",
+          "src/main/resources/data/isekai_reborn/forge/biome_modifier/ryuka_biome_modifier.json",
+          "src/main/java/net/mcreator/isekaireborn/client/renderer/RyukaRenderer.java",
+          "src/main/resources/assets/isekai_reborn/models/item/ryuka_spawn_egg.json"
+        ]
+      },
+      "path": "~/Servants and Waifus/Waifus/Ryuka"
+    },
+    {
+      "name": "HolySword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/isekai_reborn/models/item/holy_sword.json",
+          "src/main/java/net/mcreator/isekaireborn/item/HolySwordItem.java"
+        ]
+      },
+      "path": "~/Heroes/Isekai Stuff/Holy Sword/Forms and Levels/Forms/Sword"
+    },
+    {
+      "name": "Isekai",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "isekai",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/Misc/creative"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.isekai_reborn.holy_sword": "Holy Sword",
+      "entity.isekai_reborn.ryuka": "Ryuka",
+      "item.isekai_reborn.ryuka_spawn_egg": "Ryuka Spawn Egg",
+      "item_group.isekai_reborn.isekai": "Isekai"
+    }
   },
   "foldersRoot": {
     "name": "~",
@@ -24,7 +74,20 @@
               },
               {
                 "name": "Arc Magic",
-                "children": []
+                "children": [
+                  {
+                    "name": "Ancient Dragon Magic",
+                    "children": []
+                  },
+                  {
+                    "name": "Life Magic",
+                    "children": []
+                  },
+                  {
+                    "name": "Death Magic",
+                    "children": []
+                  }
+                ]
               },
               {
                 "name": "Dark Magic",
@@ -54,15 +117,15 @@
               {
                 "name": "Forbidden Magic",
                 "children": []
-              },
-              {
-                "name": "Ancient Dragon Magic",
-                "children": []
               }
             ]
           },
           {
             "name": "Mana",
+            "children": []
+          },
+          {
+            "name": "Magitek",
             "children": []
           }
         ]
@@ -122,7 +185,20 @@
         "children": [
           {
             "name": "Paladin Dragon",
-            "children": []
+            "children": [
+              {
+                "name": "Baby",
+                "children": []
+              },
+              {
+                "name": "Teen",
+                "children": []
+              },
+              {
+                "name": "Adult",
+                "children": []
+              }
+            ]
           },
           {
             "name": "Ruin Dragon",
@@ -201,6 +277,10 @@
           },
           {
             "name": "Broodmother",
+            "children": []
+          },
+          {
+            "name": "Goblins",
             "children": []
           }
         ]
@@ -565,13 +645,22 @@
       },
       {
         "name": "Food",
-        "children": []
+        "children": [
+          {
+            "name": "Desserts",
+            "children": []
+          }
+        ]
       },
       {
         "name": "Misc",
         "children": [
           {
             "name": "key Binds",
+            "children": []
+          },
+          {
+            "name": "creative",
             "children": []
           }
         ]
@@ -629,6 +718,10 @@
           },
           {
             "name": "Faye",
+            "children": []
+          },
+          {
+            "name": "Shinigami",
             "children": []
           }
         ]
@@ -694,7 +787,12 @@
                     "children": [
                       {
                         "name": "Forms",
-                        "children": []
+                        "children": [
+                          {
+                            "name": "Sword",
+                            "children": []
+                          }
+                        ]
                       },
                       {
                         "name": "Levels",
@@ -811,6 +909,10 @@
             "children": []
           }
         ]
+      },
+      {
+        "name": "Deco Blocks",
+        "children": []
       }
     ]
   },
@@ -823,11 +925,24 @@
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
-    "requiredMods": [],
-    "dependencies": [],
+    "requiredMods": [
+      "kleiders_custom_renderer"
+    ],
+    "dependencies": [
+      "kleiders_custom_renderer"
+    ],
     "dependants": [],
-    "mcreatorDependencies": [],
+    "mcreatorDependencies": [
+      "kleidersplayerrenderer",
+      "pehkui",
+      "use_compiled_mods",
+      "curios_api",
+      "geckolib",
+      "particlepresets",
+      "jei"
+    ],
     "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.isekaireborn",
     "lockBaseModFiles": false
   },
